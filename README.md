@@ -4,4 +4,4 @@ The Transformers for Text Classification Baseline (TTCB) System to a Shared Task
 https://emw.ku.edu.tr/case-2022/.
 
 For the data, please see the shared task repo: https://github.com/emerging-welfare/case-2022-multilingual-event. <br/>
-A filled form is need to request the CASE shared task data. There is a copyright. 
+A filled form is needed to request the CASE shared task data. There is a copyright. 
