@@ -7,3 +7,5 @@ This repo contains only the codes for creating models from the shared task data.
 
 For the data, please see the shared task repo: https://github.com/emerging-welfare/case-2022-multilingual-event. <br/>
 A filled form is needed to request the CASE shared task data. There is a copyright. 
+
+Presentations: https://docs.google.com/presentation/d/1gGnwqI78xXdeXTugDQsFStGhBaooX9WgAv4kxJ1e3xk/edit?usp=sharing
