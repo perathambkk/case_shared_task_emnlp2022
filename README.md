@@ -10,6 +10,12 @@ A filled form is needed to request the CASE shared task data. There is a copyrig
 
 Presentations: https://docs.google.com/presentation/d/1gGnwqI78xXdeXTugDQsFStGhBaooX9WgAv4kxJ1e3xk/edit?usp=sharing
 
+## Preprocessing, Training and Testing
+See the jupyter notebooks, such as [CMD_CASE22_subtask4_TokenClassification.ipynb](CMD_CASE22_subtask4_TokenClassification.ipynb).
+
+## Visualization codes
+See the t-SNE-*.ipynb jupyter notebooks.
+
 ## Citation
 A link to the [paper](https://aclanthology.org/2022.case-1.pdf#page=161) and its [ArXiv](https://arxiv.org/abs/2301.06617).
 
