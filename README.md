@@ -14,7 +14,7 @@ Presentations: https://docs.google.com/presentation/d/1gGnwqI78xXdeXTugDQsFStGhB
 See the jupyter notebooks, such as [CMD_CASE22_subtask4_TokenClassification.ipynb](CMD_CASE22_subtask4_TokenClassification.ipynb).
 
 ## Visualization codes
-See the t-SNE-*.ipynb jupyter notebooks.
+See the t-SNE-*.ipynb jupyter notebooks, such as [t-SNE.ipynb](t-SNE.ipynb).
 
 ## Citation
 A link to the [paper](https://aclanthology.org/2022.case-1.pdf#page=161) and its [ArXiv](https://arxiv.org/abs/2301.06617).
